@@ -17,5 +17,5 @@ Principales colaboradores:
   <img align="left" width="80" height="80" src="https://uismetodospythoniq.github.io/pychemuis/images/JMAcirc.png" alt="">
 </p>
 <p>
-  <img align="left" width="80" height="80" src="https://uismetodospythoniq.github.io/pychemuis/images/JNFcirc.png" alt="">
+  <img align="left" width="80" height="80" src="https://uismetodospythoniq.github.io/pychemuis/images/JFRcircu.png" alt="">
 </p>
