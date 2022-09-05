@@ -11,8 +11,8 @@ PyChem es un esfuerzo colaborativo para dominar las herramientas de análisis nu
 <p>
 Principales colaboradores:
   <p>
-  <img align="left" width="80" height="80" src="https://deimorfo.github.io/pruebaweb.deimorfo/images/JDGcirc.png" alt="">
+  <img align="left" width="80" height="80" src="https://uismetodospythoniq.github.io/pychemuis/images/JDGcirc.png" alt="">
 </p>
 <p>
-  <img align="left" width="80" height="80" src="https://deimorfo.github.io/pruebaweb.deimorfo/images/JMAcirc.jpg" alt="">
+  <img align="left" width="80" height="80" src="https://uismetodospythoniq.github.io/pychemuis/images/JMAcirc.png" alt="">
 </p>
