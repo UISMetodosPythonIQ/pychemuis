@@ -8,14 +8,26 @@ El corazón de la ingeniería química, al igual que el resto de las ingeniería
 <p align="justify">  
 PyChem es un esfuerzo colaborativo para dominar las herramientas de análisis numérico que son de tanta utilidad dentro de la ingeniería química, un compendio de códigos abordados en la materia de Métodos en Ingeniería Química impartida por la <A HREF="http://iq.uis.edu.co/eisi/"> Escuela de Ingeniería Química </A> de la <A HREF="https://uis.edu.co/inicio/">Universidad Industrial de Santander </A> mediante la cual se busca brindar las herramientas adecuadas para el correcto dominio y solución de dichos retos. Escrito en <A HREF="https://www.python.org/"> Python</A>, este compendio en forma de repositorio no solo traduce códigos de vital importancia de <A HREF="https://www.mathworks.com/products/matlab.html"> MATLAB</A>, además, presenta nuevos enfoques mediante el uso intuitivo de herramientas como <A HREF="https://colab.research.google.com/"> Google Colab</A> y <A HREF="https://jupyter.org/"> Jupyter Notebook</A>.
 </p>
+
+<style>
+  .conteiner {
+    display: flex;
+  }
+  .userimg {
+    matgin-right: 20px;
+  }
+</style>
+
+<div class="conteiner">
 <p>
 Principales colaboradores:
-  <p>
+<p>
+  <img align="left" width="80" height="80" class="userimg" src="https://uismetodospythoniq.github.io/pychemuis/images/JFRcirc.png" alt="">
+</p>
+<p>
   <img align="left" width="80" height="80" src="https://uismetodospythoniq.github.io/pychemuis/images/JDGcirc.png" alt="">
 </p>
 <p>
   <img align="left" width="80" height="80" src="https://uismetodospythoniq.github.io/pychemuis/images/JMAcirc.png" alt="">
 </p>
-<p>
-  <img align="left" width="80" height="80" src="https://uismetodospythoniq.github.io/pychemuis/images/JFRcirc.png" alt="">
-</p>
+</div> 
